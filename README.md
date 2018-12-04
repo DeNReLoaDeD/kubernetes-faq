@@ -399,7 +399,8 @@ It just works. EBS volumes are specific to an Availability Zone, and Kubernetes 
 
 ## Does Kubernetes support the new Amazon Load Balancer (ALB)?
 
-Not currently.
+YES! since 20-Nov-2018:
+https://aws.amazon.com/es/blogs/opensource/kubernetes-ingress-aws-alb-ingress-controller/
 
 ## Is there a way to give a pod a separate IAM role that has different permissions than the default instance IAM policy?
 
